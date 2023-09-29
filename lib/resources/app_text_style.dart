@@ -15,8 +15,6 @@ class AppTextStyle {
   static const double fontSizeCaption = 11;
   static const double fontSizeCaptionFooter = 11;
 
-  static const String fontFamily = "Lexend";
-
   static const TextStyle descriptionListTile = TextStyle(
     fontSize: fontSizeDescription,
     overflow: TextOverflow.ellipsis,
